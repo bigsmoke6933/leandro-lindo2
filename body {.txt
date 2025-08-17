@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(0, 0, 0);
+font-family: "Chela One", system-ui;
+
+}
+
+h1 {
+    color: rgb(0, 238, 255);
+    text-align: center;
+    border: solid;
+
+}
+
+p{color: rgb(19, 227, 227) 
+}
